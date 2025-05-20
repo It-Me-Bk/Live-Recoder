@@ -62,7 +62,7 @@ git clone https://github.com/It-Me-Bk/Live-Recoder
 cd Live-Recoder
 sudo apt update or sudo apt-get update
 sudo apt install ffmpeg or sudo apt-get install ffmpeg
-python3 bot.py or python bot.pyc
+python3 main.py or python main.py
 </pre>
 </p>
 </details>
